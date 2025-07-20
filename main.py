@@ -1,6 +1,3 @@
-from server import keep_alive
-keep_alive()
-
 from aiogram import Bot, Dispatcher, executor, types
 import logging
 import asyncio
